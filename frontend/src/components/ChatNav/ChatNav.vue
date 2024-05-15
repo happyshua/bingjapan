@@ -131,11 +131,6 @@ let navConfigs = ref([
     key: navType.reset,
     label: '一键重置',
   },
-  {
-    key: navType.compose,
-    label: '系统状态',
-    url: 'https://s.xinu.ink',
-  },
 ]);
 
 const themeModeOptions = ref([
