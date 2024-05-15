@@ -132,8 +132,9 @@ let navConfigs = ref([
     label: '一键重置',
   },
   {
-    key: navType.about,
-    label: '关于'
+    key: navType.compose,
+    label: '系统状态',
+    url: 'https://s.xinu.ink',
   },
 ]);
 
